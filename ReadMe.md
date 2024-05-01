@@ -17,12 +17,12 @@
 
 ```java
 Boolean tcValid = TCValidation.tcValidation(
-        "12345678901",
-        "firstName",
-        "lastName",
-        "2001");
+        "12345678901", // Turkish ID Number
+        "mehmet furkan", // First Name
+        "kaya", // Last Name
+        "2001"); // Year of Birth
 
-System.out.println(tcValid);
+System.out.println(tcValid); // true-false
 ```
 
 ### ✅Releases
