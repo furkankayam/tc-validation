@@ -13,9 +13,9 @@
 
 ### 👍Code example
 
-```java
-import org.furkankayam.TCValidation;
+- import `import org.furkankayam.TCValidation;`
 
+```java
 Boolean tcValid = TCValidation.tcValidation(
         "12345678901",
         "firstName",
