@@ -30,6 +30,7 @@ System.out.println(tcValid); // true-false
 - The latest release `maven` dependency
 
 ```xml
+<!-- https://maven.pkg.github.com/furkankayam/tc-validation -->
 <dependency>
     <groupId>org.furkankayam</groupId>
     <artifactId>tc-validation</artifactId>
