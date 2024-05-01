@@ -22,9 +22,7 @@ Boolean tcValid = TCValidation.tcValidation(
         "lastName",
         "2001");
 
-System.out.
-
-println(tcValid);
+System.out.println(tcValid);
 ```
 
 ### ✅Releases
