@@ -40,6 +40,24 @@ System.out.println(tcValid); // true-false
 
 - `mvn install`
 
+---
+
+- The latest release 'gradle' dependency
+
+```groovy
+repositories {
+	mavenCentral()
+	maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+        // https://github.com/furkankayam/tc-validation
+	implementation 'com.github.furkankayam:tc-validation:1.0'
+}
+```
+
+- `gradle install`
+
 <br>
 
 # 📖License
