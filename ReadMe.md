@@ -38,8 +38,6 @@ System.out.println(tcValid); // true-false
 </dependency>
 ```
 
-- `mvn install`
-
 #### 🐘Gradle
 
 ```groovy
@@ -53,8 +51,6 @@ dependencies {
 	implementation 'com.github.furkankayam:tc-validation:1.0'
 }
 ```
-
-- `gradle install`
 
 <br>
 
