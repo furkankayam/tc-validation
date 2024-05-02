@@ -29,8 +29,6 @@ System.out.println(tcValid); // true-false
 
 #### 🪶Maven
 
-- The latest release `maven` dependency
-
 ```xml
 <!-- https://github.com/furkankayam/tc-validation -->
 <dependency>
@@ -43,8 +41,6 @@ System.out.println(tcValid); // true-false
 - `mvn install`
 
 #### 🐘Gradle
-
-- The latest release 'gradle' dependency
 
 ```groovy
 repositories {
