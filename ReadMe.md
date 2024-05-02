@@ -27,6 +27,8 @@ System.out.println(tcValid); // true-false
 
 ### ✅Releases
 
+###### Maven
+
 - The latest release `maven` dependency
 
 ```xml
@@ -40,7 +42,7 @@ System.out.println(tcValid); // true-false
 
 - `mvn install`
 
----
+###### Gradle
 
 - The latest release 'gradle' dependency
 
