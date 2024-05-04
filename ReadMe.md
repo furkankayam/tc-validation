@@ -34,11 +34,18 @@ System.out.println(tcValid); // true-false
 #### 🪶Maven
 
 ```xml
+<repositories>
+	<repository>
+		<id>jitpack.io</id>
+		<url>https://jitpack.io</url>
+	</repository>
+</repositories>
+
 <!-- https://github.com/furkankayam/tc-validation -->
 <dependency>
-    <groupId>org.furkankayam</groupId>
-    <artifactId>tc-validation</artifactId>
-    <version>2.0</version>
+	<groupId>com.github.furkankayam</groupId>
+	<artifactId>tc-validation</artifactId>
+	<version>2.0</version>
 </dependency>
 ```
 
