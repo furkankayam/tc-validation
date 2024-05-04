@@ -35,17 +35,17 @@ System.out.println(tcValid); // true-false
 
 ```xml
 <repositories>
-	<repository>
-		<id>jitpack.io</id>
-		<url>https://jitpack.io</url>
-	</repository>
+    <repository>
+        <id>jitpack.io</id>
+        <url>https://jitpack.io</url>
+    </repository>
 </repositories>
 
 <!-- https://github.com/furkankayam/tc-validation -->
 <dependency>
-	<groupId>com.github.furkankayam</groupId>
-	<artifactId>tc-validation</artifactId>
-	<version>2.0</version>
+    <groupId>com.github.furkankayam</groupId>
+    <artifactId>tc-validation</artifactId>
+    <version>2.0</version>
 </dependency>
 ```
 
@@ -53,13 +53,13 @@ System.out.println(tcValid); // true-false
 
 ```groovy
 repositories {
-	mavenCentral()
-	maven { url 'https://jitpack.io' }
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-        // https://github.com/furkankayam/tc-validation
-	implementation 'com.github.furkankayam:tc-validation:2.0'
+    // https://github.com/furkankayam/tc-validation
+    implementation 'com.github.furkankayam:tc-validation:2.0'
 }
 ```
 
