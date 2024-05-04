@@ -38,7 +38,7 @@ System.out.println(tcValid); // true-false
 <dependency>
     <groupId>org.furkankayam</groupId>
     <artifactId>tc-validation</artifactId>
-    <version>1.0</version>
+    <version>2.0</version>
 </dependency>
 ```
 
@@ -52,7 +52,7 @@ repositories {
 
 dependencies {
         // https://github.com/furkankayam/tc-validation
-	implementation 'com.github.furkankayam:tc-validation:1.0'
+	implementation 'com.github.furkankayam:tc-validation:2.0'
 }
 ```
 
