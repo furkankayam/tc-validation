@@ -6,7 +6,7 @@
 
 [![Java](https://img.shields.io/badge/java-17.0-000?style=for-the-badge&logo=openjdk&logoColor=white&color=FF9A00)](https://www.java.com/en/)
 [![Maven](https://img.shields.io/badge/Maven-3.9-000?style=for-the-badge&logo=apache-maven&logoColor=white&color=C71A36)](https://maven.apache.org/)
-[![OkHttp](https://img.shields.io/badge/OkHttp-4.10-000?style=for-the-badge&logo=okta&logoColor=white&color=4479A1)](https://square.github.io/okhttp/)
+[![OkHttp](https://img.shields.io/badge/OkHttp-5.0-000?style=for-the-badge&logo=okta&logoColor=white&color=4479A1)](https://square.github.io/okhttp/)
 [![KPSPublic](https://img.shields.io/badge/KPSPublic-1.0-000?style=for-the-badge&logo=keenetic&logoColor=white&color=0E3A2F)](https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx)
 
 <br>
